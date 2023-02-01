@@ -1,6 +1,6 @@
 # repositorio nombre: temporal
 archivos de programacion 1
-## practica 1
+## Actividad 01 febrero 2023
 ### descargue los archivos de ste repositorio y relice lo siguiente:
 1. abrir el archivo expresiones.cpp y probarlo
 2. atender la exposicion de expresiones del profesor
