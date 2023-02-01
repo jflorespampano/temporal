@@ -3,6 +3,8 @@ archivos de programacion 1
 ## practica 1
 1 abrir el archivo expresiones.cpp y probarlo
 2 atender la exposicion de expresiones del profesor
+
+```
 #include <iostream>
 #include <conio.h>
 #include <stdio.h>
@@ -18,8 +20,12 @@ int main(){
 	getch();
 	return 0;
 }
+```
+
 3 abrir el archivo parametros.cpp y probarlo
 4 atender la explicacion de parametros del profesor
+
+```
 #include <iostream>
 #include <conio.h>
 #include <stdio.h>
@@ -40,3 +46,4 @@ int main(){
 	getch();
 	return 0;
 }
+```
