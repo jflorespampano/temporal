@@ -2,8 +2,8 @@
 archivos de programacion 1
 ## practica 1
 ### descargue los archivos de ste repositorio y relice lo siguiente:
-* 1 abrir el archivo expresiones.cpp y probarlo
-* 2 atender la exposicion de expresiones del profesor
+1. abrir el archivo expresiones.cpp y probarlo
+2. atender la exposicion de expresiones del profesor
 
 ```
 #include <iostream>
@@ -23,8 +23,8 @@ int main(){
 }
 ```
 
-* 3 abrir el archivo parametros.cpp y probarlo
-* 4 atender la explicacion de parametros del profesor
+3. abrir el archivo parametros.cpp y probarlo
+4. atender la explicacion de parametros del profesor
 
 ```
 #include <iostream>
