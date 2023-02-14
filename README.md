@@ -53,7 +53,7 @@ Ejercicios:
 1. Declare un vector con los valores: 23,11,76,10,21,30,67,85,24,32,11,10,21,56,10, 
 Lea un dato y búsquelo en el vector, muestre la posición donde se encontró el dato.
 2. Para el vector del ejercicio 1 busque el menor.
-3. Para el vector del ejercicio 21, busque el mayor.
+3. Para el vector del ejercicio 1, busque el mayor.
 4. Para un valor dado, indique cuantas veces aparece el valor dentro del vector.
 
 Apoyese en los siguiente ejemplos de código:
