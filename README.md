@@ -58,7 +58,7 @@ Lea un dato y búsquelo en el vector, muestre la posición donde se encontró el
 
 Apoyese en los siguiente ejemplos de código:
 
-declarando arreglos, declaramos el vector r con :
+declarando arreglos, declaramos el vector r con 6 datos sin inicializar y el arreglo v con 6 datos inicializado:
 ```
 #include <iostream>
 using namespace std;
@@ -69,6 +69,7 @@ int main(void){
     
     return 0;
 }
+```
 
 Recorrer un vector y mostrar sus datos:
 ```
