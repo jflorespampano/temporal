@@ -1,4 +1,7 @@
 # Programas para evaluar la primera secuencia.
+## Actividad
+Pruebe los ejercicios de este repositorio, a continuación aclare sus dudas con el profesor el dia lunes 27 de marzo.
+Despues realice los siguientes ejercicios:
 
 1. escriba un programa que ordene una lista de 10 nombres de personas.
 2. escriba un programa que calcule el promedio de 10 números enteros.
