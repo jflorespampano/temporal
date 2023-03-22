@@ -1,20 +1,15 @@
 #include <iostream>
 using namespace std;
 const int N=6;
-int leer_vector(int v[]){
-    for(int i=0;i<N;i++){
-    	cout<<"deme dato que ira en la posicion "<<i<<" de "<<N<<": ";
-        cin>>v[i];
-    } 
-    return 0;
-}
 
 int main(void){
     char s[80]="hola uno dos tres cuatro mundo";
-    int i=0;
-    while(s[i++]!='u')
+    int i=0,palabras=0;
+    //contar palabras
+    while(s[i++])
+    	if(s[i-1]==' ') palabras++;
     ;
-    cout<<(i-1)<<endl;
-    cout<<s;
+    cout<<"son "<<palabras+1<<" palabras"<<endl;
+
     return 0;
 }
